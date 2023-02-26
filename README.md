@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">It develops itself in Java, Develops Minecraft Spigot Server Plugins And Can Write Html, Css Pages.</h3>
-<img src="[https://i.gifer.com/Bm7P.gif](https://gifer.com/en/Bm7P)">
+<img width="400" src="[https://i.gifer.com/Bm7P.gif](https://gifer.com/en/Bm7P)">
 
 - 📫 Contact information: **mertkskmert45@gmail.com**
 
