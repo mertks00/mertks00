@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">It develops itself in Java, Develops Minecraft Spigot Server Plugins And Can Write Html, Css Pages.</h3>
 <(img align="right" alt="Coding" width="400" src="https://i.gifer.com/Bm7P.gif")>
