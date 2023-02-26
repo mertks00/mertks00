@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">It develops itself in Java, Develops Minecraft Spigot Server Plugins And Can Write Html, Css Pages.</h3>
-<img src="https://cdna.artstation.com/p/assets/images/images/033/374/750/large/metin-seven-metin-seven-isometric-pixel-artist-illustrator-science-scientist-machine-computer-device.jpg">
+<img width="400" src="https://cdna.artstation.com/p/assets/images/images/033/374/750/large/metin-seven-metin-seven-isometric-pixel-artist-illustrator-science-scientist-machine-computer-device.jpg">
 
 - 📫 Contact information: **mertkskmert45@gmail.com**
 
