@@ -5,7 +5,7 @@
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mertksk77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mertksk77" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@mertksk77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mertksk7754445" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/cmwQGg5a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cmwQGg5a" height="30" width="40" /></a>
 </p>
 
